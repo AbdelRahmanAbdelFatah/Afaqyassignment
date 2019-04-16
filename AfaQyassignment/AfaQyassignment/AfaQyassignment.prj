@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>-	Log in to the website and validate if user is logged in
+-	Add appointment where test data is read from Excel file or any data source (optional)
+-	Validate the appointment has been created.
+Using the scenario mentioned above, write test cases in BDD format for log-in and appointment scenarios.</description>
+   <name>AfaQyassignment</name>
+   <tag></tag>
+   <UUID>36691709-33c3-4abb-bc21-51150e4ae375</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>WEBUI</type>
+</Project>
